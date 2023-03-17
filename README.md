@@ -1,5 +1,5 @@
 # 롯데리아 딱붙어체(LotterriaDdag)
-
+<pre>
 @font-face {
     font-family: 'LotterriaDdag';
     font-weight: normal;
@@ -11,3 +11,4 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/LotterriaDdag/LotterriaDdag.ttf') format("truetype");
     font-display: swap;
 } 
+</pre>
